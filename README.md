@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Joshua Tanimola (Teejoshua)
+## Hi there👋, I'm Joshua Tanimola (Teejoshua)
 
 ### About Me 🚀
 
@@ -8,8 +8,8 @@
 
 ### My Experiences 🙌
 
-- [Cloud DevOps Engineer @Paramount Students] - Collaborated with global teams to develop innovative cloud-based solutions, leveraging the power of cloud platforms for AI and machine learning projects.
-- [Cloud Infrastructure Engineer II @Pronact] - Managing cloud infrastructure and ensuring high availability and security.
+- **Cloud DevOps Engineer @Paramount Students** - Collaborated with global teams to develop innovative cloud-based solutions, leveraging the power of cloud platforms for AI and machine learning projects.
+- **Cloud Infrastructure Engineer II @Pronact** - Managing cloud infrastructure and ensuring high availability and security.
 
 ### Technical Skills 🛠️
 
