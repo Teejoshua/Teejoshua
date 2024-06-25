@@ -1,8 +1,19 @@
-## Hi there👋, I'm Joshua Tanimola (Teejoshua)
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height= "29">, I'm Joshua!
+
+
+<a href="mailto:teejoshua01@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img align="left" width="26px" src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-256.png" />
+</a>
+
+<a href="https://www.linkedin.com/in/joshua-tanimola-bb3699227/" target="_blank" rel="noopener noreferrer">
+  <img align="left" width="24px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png"  />
+</a>
+
+<br />
 
 ### About Me 🚀
 
-🎓 I'm a seasoned **Cloud Infrastructure Engineer** | **DevOps Engineer** | **SRE** with over 4 years of experience.<br/>
+🎓 I'm a seasoned **Cloud Infrastructure Engineer** | **DevOps Engineer** | **Site Reliability Engineer** with over 4 years of experience.<br/>
 🔨 Skilled in designing and maintaining robust cloud infrastructure using **AWS**, **Azure**, **Terraform**, **Docker**, **Kubernetes**, and **Jenkins**.<br/>
 👨‍💻 Passionate about cloud technologies and automation, with a keen interest in optimizing performance and scalability.<br/>
 
