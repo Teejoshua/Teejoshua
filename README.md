@@ -13,42 +13,42 @@
 
 ### About Me 🚀
 
-🎓 I'm a seasoned **Cloud Infrastructure Engineer** | **DevOps Engineer** | **Site Reliability Engineer** | **Support Engineer** with over 4 years of experience.<br/>
-🔨 Skilled in designing and maintaining robust cloud infrastructure using **AWS**, **Azure**, **Terraform**, **Docker**, **Kubernetes**, and **Jenkins**.<br/>
-👨‍💻 Passionate about cloud technologies and automation, with a keen interest in optimizing performance and scalability.<br/>
+🎓 I'm a certified **Project Manager** with a strong foundation in cloud & software engineering backed with over 4 years of experience.<br/>
+🔨 Experienced in leading and coordinating data, software & cloud infrastructure projects using tools like **Jira**, **Asana**, **Trello**, **ClickUp**, **Monday**, and **Notion**.<br/>
+👨‍💻 Passionate about driving cross-functional collaboration, process automation, and delivering scalable, high-performance cloud solutions through well-structured project execution.<br/>
 
 ### My Experiences 🙌
 
-- **Cloud DevOps Engineer @Paramount Students** - Collaborated with global teams to develop innovative cloud-based solutions, leveraging the power of cloud platforms for AI and machine learning projects.
-- **Cloud Infrastructure Engineer II @ProAct** - Managing cloud infrastructure and ensuring high availability and security.
+- **Project Manager | DevOps Team Lead @Paramount Students** - Coordinated web and mobile platform rollouts with global teams, ensuring customer expectations were met during the planning, execution, and launch phases, leveraging the power of AI for seamless automation.
+- **Cloud Engineer | Project Coordinator @ProAct** - Managed project timelines, app asset collection, stakeholder communication, and aligned technical requirements with development efforts for several successful project outcomes.
 
 ### Technical Skills 🛠️
 
+- **Project & Task Management Tools**: Jira, Asana, ClickUp, Trello, Monday, Notion, Microsoft Project
+- **Methodologies & Frameworks**: Agile (Scrum & Kanban), Waterfall, Sprint Planning & Retrospectives, OKRs & KPI Tracking
 - **Cloud Platforms**: GCP, Amazon Web Services (AWS), Microsoft Azure
 - **Infrastructure Tools**: Terraform, Kubernetes, Jenkins, Docker
 - **Programming Languages**: Python, Bash, SQL, Node.js
-- **Documentation & Code Optimization**: Flake8, pep8
-- **Libraries/Tools**: NumPy, Pandas, Git, Prometheus, Grafana
+- **Documentation & & Reporting**: Google Workspace (Docs, Sheets, Slides), Microsoft Office Suite, Confluence, Loom, Canva
+- **Version Control & Collaboration**: Git, Slack, Zoom, Google Meet, Microsoft Teams, Webex
 
-### Cloud Services 🛠️
-
-- **AWS Services**: AWS S3, AWS Kinesis, AWS SNS, AWS Lambda, AWS VPC, CloudWatch, AWS EC2, AWS ECS
-- **Azure Services**: Azure Virtual Machines, Azure Kubernetes Service, Azure Functions, Azure DevOps
 
 ### Certifications 📜
 
+- Project Management Professional (PMP)
 - AWS Cloud Quest - Cloud Practitioner
 - AWS Certified DevOps Engineer – Professional
+- PMI Certified Member
 - Certified in Cybersecurity (CC)
 - Cloud Foundations
 
 ## Volunteer Experience🤝
 
-- Active contributor to AWS Community Builder and AWS User Groups.
+- Active contributor to PMI Community and User Groups.
 - Volunteer leader for AWS Cloud Clubs as a cloud club captain.
 
 ### Honors & Awards 🏅
-- Gold badge in Completing DevOps Capstone issued by IBM & Credly.
+- Gold badge in Completing Project Management Capstone issued by IBM & Credly.
 - Recipient of the Cloud Foundations Great Learning for enhancing IT infrastructure with emerging technologies.
 
 Follow
